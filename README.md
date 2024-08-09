@@ -4,7 +4,7 @@
 ## Change folder:
 cd folder_name
 
-## Change privious folder:
+## Back privious folder:
 cd ..
 
 ## Create folder:
