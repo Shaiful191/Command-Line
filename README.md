@@ -1,10 +1,10 @@
-# Windows Command Line:
+# Git Bash Command Line:
 
 
 ## Change folder:
 cd folder_name
 
-## Back privious folder:
+## Change privious folder:
 cd ..
 
 ## Create folder:
@@ -14,26 +14,25 @@ mkdir folder_name
 rmdir folder_name
 
 ## Clear prompt:
-cls
+clear
 
 ## What is in our current folder:
 dir
 
 ## Create file:
-echo > file.txt
+touch file_name.txt
 
 ## Delete file:
-del file.txt
-
-## Open file:
-file.txt (click enter)
-
-## Write in file:
-echo Hello,we are learing > file.txt
+rm file_name.txt
 
 ## Read file:
-type file.txt
+cat file_name.txt
+
+## Write in file:
+echo "I learn about Bangladesh" > file_name.txt
 
 ## Add something into file:
-echo I love Bangladesh >> file.txt
+echo "I love Bangladesh" >> file_name.txt
+
+
 
