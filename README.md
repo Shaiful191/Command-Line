@@ -17,7 +17,7 @@ rmdir folder_name
 clear
 
 ## What is in our current folder:
-dir
+ls
 
 ## Create file:
 touch file_name.txt
