@@ -21,6 +21,7 @@ ls
 
 ## showing the current working directory:
 pwd
+
 output: /c/Users/username/Documents
 
 
