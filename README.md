@@ -19,6 +19,11 @@ clear
 ## What is in our current folder:
 ls
 
+## showing the current working directory:
+pwd
+output: /c/Users/username/Documents
+
+
 ## Create file:
 touch file_name.txt
 
